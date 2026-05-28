@@ -67,7 +67,7 @@ https://data.unesco.org/explore/dataset/whc001/api/
 
 ## Dashboard
 
-[View the Looker Studio Dashboard](#) ←
+[View the Looker Studio Dashboard](https://datastudio.google.com/reporting/cd93f120-f745-46f0-9a17-91ce92486fb9) 
 
 ---
 
