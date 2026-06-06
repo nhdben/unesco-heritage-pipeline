@@ -32,9 +32,7 @@ America. Conflict, instability, and under-resourcing are probable factors.
 
 ## The Question
 
-Does UNESCO's World Heritage List reflect the actual distribution of global
-heritage, or does it reflect the distribution of institutional capacity to
-nominate, document, and advocate for sites?
+How does UNESCO World Heritage inscription activity vary across regions, and what patterns emerge in endangerment, category, and criteria?
 
 ---
 
