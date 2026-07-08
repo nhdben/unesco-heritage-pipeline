@@ -38,13 +38,21 @@ How does UNESCO World Heritage inscription activity vary across regions, and wha
 
 ## Pipeline 
 UNESCO DataHub API
+
 ↓
+
 requests (pagination loop)
+
 ↓
+
 pandas (clean + enrich)
+
 ↓
+
 gspread (load to Google Sheets)
+
 ↓
+
 Looker Studio (dashboard)
 
 ---
